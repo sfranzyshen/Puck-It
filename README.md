@@ -1,3 +1,6 @@
-<img src="/2D/Puck-It_Logo.svg" alt="" data-canonical-src="/2D/Puck-It_Logo.svg" width="100" /> 
+<img src="/2D/Puck-It_Logo.svg" alt="Puck-It Logo" title="Puck-It Logo" id="logo" style="float:left" width="100" />
 
-## Generic Autonomous Programmable Input/Output Device
+# Autonomous Programmable Input/Output Device
+
+## Introduction:
+This is where text explaoning the concept of the project.
