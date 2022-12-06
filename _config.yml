@@ -7,6 +7,6 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
-show_downloads: true
+    output: false
+show_downloads: false
 theme: jekyll-theme-minimal
