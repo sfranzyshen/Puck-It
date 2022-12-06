@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.sfranzyshen.org/Puck-It/2D/Puck-It_Logo_lt.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.sfranzyshen.org/Puck-It/2D/Puck-It_Logo_dk.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.sfranzyshen.org/Puck-It/2D/Puck-It_Logo_dk.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.sfranzyshen.org/Puck-It/2D/Puck-It_Logo_lt.svg">
   <img  alt="Puck-It Logo" title="Puck-It Logo" id="logo" style="float:left" width="100" src="https://www.sfranzyshen.org/Puck-It/2D/Puck-It_Logo_dk.svg">
 </picture>
 
