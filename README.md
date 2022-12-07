@@ -5,3 +5,6 @@
 
 ## Introduction:
 This is where text explaoning the concept of the project.
+
+## License:
+GNU General Public License v3.0
