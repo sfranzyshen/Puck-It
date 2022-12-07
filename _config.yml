@@ -9,4 +9,5 @@ collections:
     title: Uploads
     output: false
 show_downloads: false
+favicon: /Puck-It/favicon.ico
 theme: jekyll-theme-minimal
