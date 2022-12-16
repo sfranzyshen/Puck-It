@@ -4,7 +4,7 @@
 
 
 ## Introduction:
-This is where text explaining the concept for the project.
+This is where text explaining the concept for the project goes.
 
 ## 3D STL Files:
 The 3D STL files are included in the [*Releases archive files*](https://github.com/sfranzyshen/Puck-It/releases) or on [*Github*](https://github.com/sfranzyshen/Puck-It/tree/main/3D)
