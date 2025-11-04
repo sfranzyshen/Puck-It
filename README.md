@@ -4,7 +4,7 @@
 
 
 ## Introduction:
-This is where text explaining the concept for the project goes.
+This is a device to aid in the learning Arduino C++ development.
 
 ## 3D STL Files:
 The 3D STL files are included in the [*Releases archive files*](https://github.com/sfranzyshen/Puck-It/releases) or on [*Github*](https://github.com/sfranzyshen/Puck-It/tree/main/3D)
